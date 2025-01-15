@@ -1,96 +1,53 @@
-# Chandni Upadhyay - Full Stack Developer
+# 💫 About Me:
+Hi there! 👋  
+I'm Chandni Upadhyay, a passionate Full Stack Developer and tech enthusiast. Welcome to my GitHub profile! 🚀  
 
-## About Me
+- 🔭 I’m currently working on full-stack web applications.  
+- 🌱 I’m enhancing my skills in ReactJS, Node.js, and backend development.  
+- 👯 I’m looking to collaborate on open-source projects and innovative web applications.  
+- 🤔 I’m seeking help with building scalable and optimized applications.  
+- 💬 Ask me about ReactJS, JavaScript, or building user-friendly UIs.  
+- 📫 How to reach me: moon.byte29@gmail.com  
+- 😄 Pronouns: She/Her  
 
-I am a passionate and dedicated Full Stack Developer currently pursuing my Bachelor's degree in Computer Science and Engineering. With hands-on experience in both front-end and back-end development, I thrive on creating efficient, user-friendly applications. I am eager to contribute to open-source projects and collaborate with like-minded developers to grow and refine my skills in the tech world.
+Thanks for stopping by! 😊  
 
-## Objective
+---
 
-To obtain a challenging entry-level Full Stack Developer position where I can apply my knowledge of front-end and back-end development, enhance my programming skills, and contribute to building efficient and user-friendly applications while growing professionally.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandni-upadhyay)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/MoonByte29)  
 
-## Skills & Abilities
+---
 
-- **Languages:**
-  - JavaScript (React, Node.js)
-  - Python (Django, Flask)
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
-- **Technologies & Tools:**
-  - Frontend: ReactJS, HTML, CSS
-  - Backend: Node.js, Express.js
-  - Database: MongoDB, MySQL
-  - Version Control: Git, GitHub
-  - APIs: RESTful API, GraphQL
-  - Deployment: Heroku, Netlify, AWS
-  
-- **Other Skills:**
-  - Responsive Web Design
-  - UI/UX Design
-  - Agile Methodologies
-  - Problem-Solving & Debugging
+---
 
-## Experience
+## 📊 GitHub Stats:
+![Chandni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandniupadhyay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandniupadhyay&layout=compact&theme=radical)
 
-### Grras Solutions (P) Ltd | May 2024 – Jul 2024
-**Frontend Web Developer Intern**
-- Gained hands-on experience building complex React applications, implementing state management, and optimizing performance.
-- Developed and maintained the **FAMMS** website (Food and Menu Management System).
-- Worked with a team to implement responsive designs, ensuring cross-browser compatibility.
-- Collaborated on optimizing load times and improving website performance.
+---
 
-## Education
+## 🏆 GitHub Trophies:
+![Trophies](https://github-profile-trophy.vercel.app/?username=chandniupadhyay&theme=onestar&no-frame=true)
 
-- **Bachelor of Technology in Computer Science and Engineering**  
-  *Poornima University, Jaipur* (8.2 CGPA)  
-  2022-Present
-  
-- **Senior Secondary Education**  
-  *DAV Centenary Public School, Haldwani* (70%)  
-  2021-2022
-  
-- **High School Education**  
-  *DAV Centenary Public School, Haldwani* (91.4%)  
-  2019-2020
+---
 
-## Projects
+## ✍️ Random Dev Quote:
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### **Text-To-Speech Converter**
-- A lightweight web application that converts written text into speech.  
-- Built using HTML, CSS, and JavaScript, utilizing the browser's native SpeechSynthesis API.  
-- [Live Link](#)  
-- **Key Features:**  
-  - Converts text input to speech in real-time.
-  - Customizable speech rate and volume.
-  - User-friendly interface with clear controls.
+---
 
-### **Brew Heaven**
-- Brew Heaven is a stylish cafe website built with ReactJS, featuring a responsive design, smooth navigation, and a vibrant menu showcasing coffee, tea, and snacks with images and details.  
-- Styled with CSS and powered by React Router for an interactive user experience.  
-- [Live Link](#)  
-- **Key Features:**  
-  - Dynamic navigation bar.
-  - Smooth scrolling and interactive elements.
-  - Detailed menu items with images and descriptions.
-
-### **Expense Tracker**
-- A simple yet effective expense tracking web application built with ReactJS and Node.js.  
-- Allows users to input their daily expenses and categorize them for better financial management.  
-- [GitHub Repository](#)  
-- **Key Features:**  
-  - Track expenses by category (e.g., food, entertainment, transportation).
-  - View a summary of daily, weekly, and monthly expenses.
-  - Data persistence with MongoDB.
-
-## Achievements
-
-- Completed **JavaScript Algorithms and Data Structures** certification on freeCodeCamp.
-- Contributed to **open-source projects** on GitHub, including bug fixes and new feature implementations.
-
-## Contact
-
-- **GitHub:** [github.com/chandniupadhyay](https://github.com/chandniupadhyay)
-- **LinkedIn:** [linkedin.com/in/chandni-upadhyay](https://www.linkedin.com/in/chandni-upadhyay)
-- **Email:** chandni@example.com
-
-## Let's Connect!
-
-I am always looking for new learning opportunities and collaborations. Feel free to connect with me through GitHub, LinkedIn, or email. I’m excited to build impactful projects and continue learning!
+✨ Let's build something amazing together! 🌟
